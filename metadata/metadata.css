@@ -1,0 +1,36 @@
+/*
+* Sarah Houseal
+* 11/6/18
+* Metadata Practice
+*/
+
+/* The Universal Selector */
+
+* {
+
+}
+
+/* Body Attributes Here */
+/* Makes the background color on my schedule aliceblue */
+body {
+    background-color: white;
+    font-family: Arial, "Lucida Grande"", sans-serif;
+}
+p {
+    background-color: white;
+    color: rgb(255, 215, 0);
+}
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(156, 179, 255);
+}
+
+h4 {
+   color: rgb(255, 115, 108);
+}
+
+img {   
+}
+    #donut { width: 300px; height: 270px; }
+    #strawberrydonut { width: 300px; height: 300px; float:left; }
